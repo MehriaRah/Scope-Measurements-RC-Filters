@@ -43,7 +43,8 @@ Characterized the frequency response of a first-order low-pass filter by sweepin
 <img width="1600" height="1036" alt="WhatsApp Image 2026-05-08 at 10 59 55 (1)" src="https://github.com/user-attachments/assets/66a917eb-669b-4705-b6d5-c35332b4b1ac" />
 <img width="1200" height="1600" alt="WhatsApp Image 2026-05-08 at 10 59 49" src="https://github.com/user-attachments/assets/c293075b-d4ca-4023-b4f0-a2b9c7a8463a" />
 <img width="1600" height="1054" alt="WhatsApp Image 2026-05-08 at 10 59 37" src="https://github.com/user-attachments/assets/73c13713-b9c3-4026-b5d6-ff5de54b9cb0" />
-<img width="1200" height="1600" alt="WhatsApp Image 2026-05-08 at 10 59 49" src="https://github.com/user-attachments/assets/0046c00d-18a8-478c-9f50-04a36d66a761" />
+<img width="1600" height="949" alt="WhatsApp Image 2026-05-08 at 10 59 47" src="https://github.com/user-attachments/assets/ae8027a7-322e-45f7-81ab-1aea7a706a24" />
+
 
 
 
