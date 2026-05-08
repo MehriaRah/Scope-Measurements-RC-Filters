@@ -30,9 +30,9 @@ Characterized the frequency response of a first-order low-pass filter by sweepin
 ---
 
 ## 📂 Project Structure
-* `/reports`: Scanned handwritten data tables and measurement logs.
-* `/plots`: Logarithmic Bode diagrams (Gain and Phase).
-* `/signals`: Oscilloscope captures showing trigger stabilization and signal comparison.
+* : Scanned handwritten data tables and measurement logs.
+* : Logarithmic Bode diagrams (Gain and Phase).
+* : Oscilloscope captures showing trigger stabilization and signal comparison.
 
 ## 💡 Key Skills Demonstrated
 * **Signal Integrity:** Analyzing the difference between AC and DC coupling on signal visualization.
